@@ -1,0 +1,39 @@
+// ignore_for_file: file_names
+class HttpUrl {
+  static String httpurl = "http://49.0.198.122:701/";
+  static String login = "api/v1/login";
+  static String branch = "api/v1/branch";
+  static String unit = "api/v1/unit";
+  static String seller = "api/v1/seller";
+  static String quota = "api/v1/quota";
+  static String province = "api/v1/province";
+  static String device = "api/v1/device_type";
+  static String bran = "api/v1/brand";
+  static String emeidevice = "api/v1/device/register";
+  static String emei = "api/v1/device";
+  static String deviceforauthorise = "api/v1/device_for_authorise";
+  static String authorisedevice = "api/v1/authorise-device";
+  static String period = "api/v1/period";
+  static String lottery = "api/v1/lottery";
+  static String currentperiod = "api/v1/currentperiod";
+  static String user = "api/v1/user/changepassword";
+  static String cancelbill = "api/v1/bill_cancel";
+  static String paymentaword = "api/v1/payment";
+  static String billnumberseller = "api/v1/bill/by_seller_id";
+  static String listofbill = "api/v1/listOfbill";
+  static String cancelbillnumbersaler = "api/v1/bill_cancel/by_seller_id";
+  static String cancellistofbill = "api/v1/listOfbill_Cancel";
+  static String moveuser = "api/v1/seller/move_unit";
+  static String realtimesaler = "api/v1/realtimesale";
+  static String reportall = "api/v1/report/total-win-sale";
+  static String reportSale = "api/v1/report/sale/get";
+  static String reportWon = "api/v1/report/won/get";
+  static String reportBill = "api/v1/report/printbill/get";
+  static String reportExport = "api/v1/report/export/get";
+  static String exportall = "api/v1/export/total-win-sale";
+  static String exportSale = "api/v1/export/sale/get";
+  static String exportWon = "api/v1/export/won/get";
+  static String exportexport = "api/v1/export/export/get";
+  static String exportBill = "api/v1/export/printbill/get";
+  static String download = "api/v1/download";
+}
